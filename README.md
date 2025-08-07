@@ -1,8 +1,10 @@
 # Marketing-Analytics-Customer-Segmentation
  Customer Segmentation using EDA and clustering techniques to identify distinct customer groups for targeted marketing strategies.
- Table of Contents
- Project Objective
- Dataset Overview
+ 
+ * Table of Contents
+ * Project Objective
+
+ * Dataset Overview
  Data Preprocessing
  Exploratory Data Analysis (EDA)
  Customer Segmentation (KMeans Clustering)
