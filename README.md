@@ -1,5 +1,5 @@
 # Marketing-Analytics-Customer-Segmentation
-Customer Segmentation using EDA and clustering techniques to identify distinct customer groups for targeted marketing strategies.
+ Customer Segmentation using EDA and clustering techniques to identify distinct customer groups for targeted marketing strategies.
  Table of Contents
  Project Objective
  Dataset Overview
@@ -7,15 +7,12 @@ Customer Segmentation using EDA and clustering techniques to identify distinct c
  Exploratory Data Analysis (EDA)
  Customer Segmentation (KMeans Clustering)
  Results & Insights
+# Contact:- gautamsahil552004@gmail.com
 
- Contact
-
- Dataset Overview
+# Dataset Overview
  Source: Kaggle / Marketing Dataset
 
- Content: Includes customer demographic and behavioral features such as:
-
- Data Preprocessing:-
+# Data Preprocessing:-
 
  Removed missing values and duplicates
  Standardized numerical features
@@ -23,7 +20,7 @@ Customer Segmentation using EDA and clustering techniques to identify distinct c
  Scaled data for clustering
  Exploratory Data Analysis (EDA)
 
- Exploratory analysis to identify patterns and distributions:
+# Exploratory analysis to identify patterns and distributions:
 
  Age distribution of customers
  Relationship between Income and Spending Score
@@ -31,13 +28,13 @@ Customer Segmentation using EDA and clustering techniques to identify distinct c
  Outlier detection and treatment 
 
 
- Results & Insights
+# Results & Insights
 
  Segmented customers into 4–5 clusters
  Each segment represents a different marketing group (e.g. high spenders, budget customers, etc.)
  Clear distinction in income and spending behavior observed across clusters
 
- Files Included
+# Files Included
  Marketing_Analytics_Customer_Segmentation.ipynb – Complete code notebook
  ifood_df.csv – Dataset
  README.md – Project description
